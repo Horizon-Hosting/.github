@@ -3,5 +3,5 @@ contact_links:
       url: https://horizonnetworks.uk/discord
       about: Talk to us in the Discord if it's just a question.
     - name: Found a vulnerability?
-      url: mailto:vulnerabilities@horizonnetworks.uk
+      url: https://horizonnetworks.uk
       about: Also refer to our SECURITY.md file, for more detailed advice.
