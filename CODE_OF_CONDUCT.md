@@ -12,6 +12,13 @@ and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
+
+## Repository Maintainers
+
+Every HRZN repository, will have an individual or group of maintainers. This will
+be specified at the top of the repository's README.md. If this is not stated, the
+repository is a shared responsibility between the HRZN staff.
+
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our
