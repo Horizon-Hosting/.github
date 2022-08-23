@@ -4,4 +4,4 @@ contact_links:
       about: Talk to us in the Discord if it's just a question.
     - name: Found a vulnerability?
       url: https://hrzn.link/vulnerability
-      about: Also refer to our SECURITY.md file, for more detailed advice.
+      about: For more detailed advice, refer to our SECURITY.md file.
