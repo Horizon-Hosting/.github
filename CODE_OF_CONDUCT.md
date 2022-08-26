@@ -13,11 +13,21 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 
-## Repository Maintainers
+## Repository Standards
 
-Every HRZN repository, will have an individual or group of maintainers. This will
+### Maintainers
+Every HRZN repository will have an individual or group of maintainers. This will
 be specified at the top of the repository's README.md. If this is not stated, the
 repository is a shared responsibility between the HRZN staff.
+
+### Labels
+Every public HRZN respository should have a label indicating its current status. This should be specified at the top of the respository's README.md and should be from the available list of statuses. The maintainer of a project is responsible for updating this label.
+Below is a list of all available statuses for a repository label.
+|Label|Reason|
+|-----|-|
+|[![Official Project](https://archive.horizonnetworks.uk/Resources/GitHub/official.svg "Official Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is fully supported and maintained by Horizon Hosting. The repository may be used in a production instance.|
+|[![Canary Project](https://archive.horizonnetworks.uk/Resources/GitHub/canary.svg "Canary Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is currently considered to be in early access and is currently being worked on. The repository is not fully supported and bugs are expected. Usage of the repository in production is not recommended.|
+|[![Abandoned Project](https://archive.horizonnetworks.uk/Resources/GitHub/abandoned.svg "Project Abandoned")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is abandoned, this means that the repository has been replaced, deprecated or abandoned for any reason. There may be additional details on the repositories README.md.|
 
 ## Our Standards
 
