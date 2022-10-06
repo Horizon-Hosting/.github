@@ -21,7 +21,7 @@ be specified at the top of the repository's README.md. If this is not stated, th
 repository is a shared responsibility between the HRZN staff.
 
 ### Labels
-Every public HRZN respository should have a label indicating its current status. This should be specified at the top of the respository's README.md and should be from the available list of statuses. The maintainer of a project is responsible for updating this label.
+Every official HRZN respository (maintained by staff) should have a label indicating its current status. This should be specified at the top of the respository's README.md and should be from the available list of statuses. The maintainer of a project is responsible for updating this label.
 Below is a list of all available statuses for a repository label.
 |Label|Reason|
 |-----|-|
