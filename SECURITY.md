@@ -10,7 +10,7 @@ We define a security vulnerability to be a weakness in a product, service, or so
 ## Reporting a Vulnerability
 **Please do not report security vulnerabilities publically (e.g. through discord, creating a GitHub issue).**
 
-If you believe that the security issue you have found is considered to be a vulnerability under [our definition](https://github.com/Horizon-Hosting/.github/blob/master/SECURITY.md#our-definition-of-a-vulnerability) then please report it to [vulnerabilities[at]horizonnetworks.uk](mailto:vulnerabilities@horizonnetworks.uk) or visit https://hrzn.link/vulnerability.
+If you believe that the security issue you have found is considered to be a vulnerability under [our definition](https://github.com/Horizon-Hosting/.github/blob/master/SECURITY.md#our-definition-of-a-vulnerability) then please report it to [vulnerabilities[at]horizonnetworks.uk](mailto:vulnerabilities@horizonnetworks.uk).
 
 After submitting a report, you should recieve an automated response, if you don't recieve this message, it is highly likely that we did not recieve your email, if this happens, please resend your email.
 
