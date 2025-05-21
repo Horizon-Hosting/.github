@@ -25,9 +25,9 @@ Every official HRZN respository (maintained by staff) should have a label indica
 Below is a list of all available statuses for a repository label.
 |Label|Reason|
 |-----|-|
-|[![Official Project](https://archive.horizonnetworks.uk/Resources/GitHub/official.svg "Official Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is fully supported and maintained by Horizon Hosting. The repository may be used in a production instance.|
-|[![Canary Project](https://archive.horizonnetworks.uk/Resources/GitHub/canary.svg "Canary Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is currently considered to be in early access and is currently being worked on. The repository is not fully supported and bugs are expected. Usage of the repository in production is not recommended.|
-|[![Abandoned Project](https://archive.horizonnetworks.uk/Resources/GitHub/abandoned.svg "Project Abandoned")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is abandoned, this means that the repository has been replaced, deprecated or abandoned for any reason. There may be additional details on the repositories README.md.|
+|[![Official Project](https://box.hrzn.network/archive/resources/github/official.svg "Official Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is fully supported and maintained by Horizon Hosting. The repository may be used in a production instance.|
+|[![Canary Project](https://box.hrzn.network/archive/resources/github/canary.svg "Canary Project")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is currently considered to be in early access and is currently being worked on. The repository is not fully supported and bugs are expected. Usage of the repository in production is not recommended.|
+|[![Abandoned Project](https://box.hrzn.network/archive/resources/github/abandoned.svg "Project Abandoned")](https://github.com/Horizon-Hosting/.github/blob/master/CODE_OF_CONDUCT.md#labels)|The repository is abandoned, this means that the repository has been replaced, deprecated or abandoned for any reason. There may be additional details on the repositories README.md.|
 
 ## Our Standards
 
@@ -77,7 +77,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-vulnerabilities@horizonnetworks.uk.
+vulnerabilities@hrznhosting.com
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
